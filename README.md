@@ -1,7 +1,4 @@
-# my-first-website
-# Pingpong.
-
-#### A simple portfolio website. Friday 4th August 2017.
+# my-first-website.
 
 #### By **Ndolo Shadrack Winter**
 
